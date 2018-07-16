@@ -770,25 +770,25 @@
                 </div>
 
                 <ul class="footer-social">
-                    <li><a href="#0">
+                    <li><a href="https://www.facebook.com/nurulhudaasholikhah" target="_blank" >
                         <i class="im im-facebook" aria-hidden="true"></i>
                         <span>Facebook</span>
                     </a></li>
-                    <li><a href="#0">
-                        <i class="im im-twitter" aria-hidden="true"></i>
-                        <span>Twitter</span>
-                    </a></li>
-                    <li><a href="#0">
+                    <li><a href="https://www.instagram.com/lurrr_" target="_blank" >
                         <i class="im im-instagram" aria-hidden="true"></i>
                         <span>Instagram</span>
                     </a></li>
-                    <li><a href="#0">
-                        <i class="im im-behance" aria-hidden="true"></i>
-                        <span>Behance</span>
+                    <li><a href="https://www.linkedin.com/in/nurul-huda-almar-atush-sholikhah-5b7773117/" target="_blank" >
+                            <i class="im im-linkedin" aria-hidden="true"></i>
+                            <span>LinkedIn</span>
                     </a></li>
-                    <li><a href="#0">
-                        <i class="im im-pinterest" aria-hidden="true"></i>
-                        <span>Pinterest</span>
+                    <li><a href="https://github.com/nurulhudaas/" target="_blank" >
+                        <i class="im im-github" aria-hidden="true"></i>
+                        <span>Github</span>
+                    </a></li>
+                    <li><a href="https://www.soundcloud.com/nrlhudaas" target="_blank" >
+                        <i class="im im-soundcloud" aria-hidden="true"></i>
+                        <span>Soundcloud</span>
                     </a></li>
                 </ul>
                     
@@ -799,8 +799,9 @@
 
             <div class="col-twelve">
                 <div class="copyright">
-                    <span>© Copyright · 2017</span> 
-                    <!-- <span>Design by <a href="https://www.styleshout.com/">styleshout</a></span>	 -->
+                    <!-- <span>© Copyright · 2017</span> -->
+                    <span>© 2018 Nurul Huda A S · All Rights Reserved.</span> 
+                    <!-- <span>Design by <a href="https://www.styleshout.com/">styleshout</a></span>     -->
                 </div>
 
                 <div class="go-top">
