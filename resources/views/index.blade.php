@@ -733,9 +733,9 @@
                 </div>
                         
             </div>
-            <div class="col-four tab-full contact__infos home-content__buttons">
+            <div class="col-four tab-full contact__infos">
                 <h4 class="h06">Phone</h4>
-                <a href="https://wa.me/081288424715" class="btn btn--stroke">
+                <a href="https://wa.me/081288424715" class="btn btn--stroke" target="_blank">
                         WhatsApp Me..
                     </a>
                 <!-- <p><a href="https://wa.me/081288424715">whatsapp</a> -->
