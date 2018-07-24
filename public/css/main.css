@@ -855,8 +855,8 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.3rem solid #000000;
-    color: #000000;
+    border: 0.3rem solid #7a7a7a;
+    color: #7a7a7a;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
