@@ -855,8 +855,8 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.3rem solid #ffffff;
-    color: #ffffff;
+    border: 0.3rem solid #FFFFFF;
+    color: #FFFFFF;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
@@ -3041,7 +3041,7 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-image: url("../images/lur-contact-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 13.2rem;

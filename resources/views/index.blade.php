@@ -77,8 +77,8 @@
 
                 <h1>
                     I am Nurul Huda Almar'atush Sholikhah. <br>
-                    I am a graphic & UI/UX <br>
-                    designer based in Somewhere.
+                    <!-- I am a graphic & UI/UX <br>
+                    designer based in Somewhere. -->
                 </h1>
 
                 <div class="home-content__buttons">
